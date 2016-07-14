@@ -1,0 +1,15 @@
+{
+	"menu": [{
+		"titulo": "Conheça a marca",
+		"slug": "conheca-a-marca"
+	}, {
+		"titulo": "Conheça nossos produtos",
+		"slug": "conheca-nossos-produtos"
+	}, {
+		"titulo": "Sobre nós",
+		"slug": "sobre"
+	}, {
+		"titulo": "Localização",
+		"slug": "localizacao"
+	}]
+}

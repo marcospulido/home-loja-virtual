@@ -1,0 +1,48 @@
+{
+	"produtos": [{
+		"nome": "Shampo Sem Sal",
+		"preco": "39,90",
+		"slug": "shampo-sem-sal",
+		"thumbnail": "http://fakeimg.pl/180x250/?text=shampo"
+	}, {
+		"nome": "Creme Hidratante",
+		"preco": "19,90",
+		"slug": "creme-hidratante",
+		"thumbnail": "http://fakeimg.pl/180x250/?text=hidratante"
+	}, {
+		"nome": "Sabonete Facial",
+		"preco": "39,90",
+		"slug": "sabonete-facial",
+		"thumbnail": "http://fakeimg.pl/180x250/?text=sabonete"
+	}, {
+		"nome": "Shampo Sem Sal",
+		"preco": "39,90",
+		"slug": "shampo-sem-sal",
+		"thumbnail": "http://fakeimg.pl/180x250/?text=shampo"
+	}, {
+		"nome": "Creme Hidratante",
+		"preco": "19,90",
+		"slug": "creme-hidratante",
+		"thumbnail": "http://fakeimg.pl/180x250/?text=hidratante"
+	}, {
+		"nome": "Sabonete Facial",
+		"preco": "39,90",
+		"slug": "sabonete-facial",
+		"thumbnail": "http://fakeimg.pl/180x250/?text=sabonete"
+	}, {
+		"nome": "Shampo Sem Sal",
+		"preco": "39,90",
+		"slug": "shampo-sem-sal",
+		"thumbnail": "http://fakeimg.pl/180x250/?text=shampo"
+	}, {
+		"nome": "Creme Hidratante",
+		"preco": "19,90",
+		"slug": "creme-hidratante",
+		"thumbnail": "http://fakeimg.pl/180x250/?text=hidratante"
+	}, {
+		"nome": "Sabonete Facial",
+		"preco": "39,90",
+		"slug": "sabonete-facial",
+		"thumbnail": "http://fakeimg.pl/180x250/?text=sabonete"
+	}]
+}
